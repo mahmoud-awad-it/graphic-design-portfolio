@@ -15,3 +15,5 @@ The PDF also shows the visual design of harbyezz.com, a website I built for a cl
 Tool: Canva.
 
 Author: Mahmoud Awad El Shahat, Cairo, Egypt.
+
+Contact: awadmahmoud5040@gmail.com | https://linkedin.com/in/mahmoudawadelshahat
